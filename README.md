@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Analysis-of-data-concerning-the-HEP-Benchmarks
-This is the Code I wrote during my Bachelors Thesis at the Schumacher Group at Uni Freiburg
-=======
 ## Analysis of the HEPScore23-benchmark and its power consumption on the ATLAS-BFG cluster
 
 ## Folder structure
@@ -96,4 +92,3 @@ This is attempted in the folder *02_code/measurements_v2*. The bash-script **sui
 
 ## Words at the end
 I hope this documentation and improvement upon the measurement process (by reading the **whole** GitLab documentation of the hep-benchmark-suite and implementing it rudementary) someday helps someone somehow. However, I realize that this code was written for a bachelors thesis and is probably a bit too basic and usecase specific, so please be careful when reusing (parts of) it.
->>>>>>> master
